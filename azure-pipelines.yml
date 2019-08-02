@@ -18,5 +18,5 @@ steps:
 - script: |
     npm install
     npm run build
-    npm test --t spec spec/login_spec.js
+    npm test --t spec spec/ping_spec.js
   displayName: 'npm install and build'
