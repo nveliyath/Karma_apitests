@@ -35,7 +35,7 @@
     "jsonwebtoken": "^7.2.1",
     "juice": "^4.0.2",
     "kafka-node": "^2.6.1",
-    "mongoose": "~4.10.2",
+    "mongoose": "~4.13.21",
     "mysql": "^2.11.1",
     "node-rest-client": "^3.0.3",
     "nodemailer-plugin-inline-base64": "^2.0.0",
