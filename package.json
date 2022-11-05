@@ -46,7 +46,7 @@
     "request": "^2.79.0",
     "save": "^2.3.2",
     "sequelize": "^3.24.3",
-    "sequelize-cli": "^2.4.0",
+    "sequelize-cli": "^6.5.2",
     "tedious": "^2.6.4",
     "vision": "^4.1.0",
     "yar": "^8.1.0"
